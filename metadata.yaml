@@ -1,0 +1,36 @@
+_repo: The-Book-of-Ornamental-Alphabets-Ancient-and-Medieval-from-the-Eighth-CenturyMonograms-Crosse__23450
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Delamotte, F. (Freeman)
+    aliases:
+    - Delamotte, F. G. (Freeman Gage)
+    - Delamotte, Freeman Gage
+    birthdate: 1814
+    deathdate: 1862
+    gutenberg_agent_id: '25846'
+    url: http://www.gutenberg.org/2009/agents/25846
+description: ''
+gutenberg_issued: '2007-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alphabets'
+- !lcc 'NK'
+- !lcsh 'Decoration and ornament'
+title: 'The Book of Ornamental Alphabets, Ancient and Medieval, from the Eighth Century
+
+  With Numerals, including Gothic; Church Text, Large and
+
+  Small; German Arabesque; Initials for Illumination,
+
+  Monograms, Crosses, &c.'
+url: http://www.gutenberg.org/ebooks/23450
