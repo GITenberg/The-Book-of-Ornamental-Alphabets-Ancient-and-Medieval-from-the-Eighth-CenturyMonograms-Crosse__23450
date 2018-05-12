@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25846'
     url: http://www.gutenberg.org/2009/agents/25846
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23450#The-Book-of-Ornamental-Alphabets-Ancient-and-Medieval-from-the-Eighth-CenturyMonograms-Crosse_
 gutenberg_issued: '2007-11-11'
 gutenberg_type: Text
 identifiers:
